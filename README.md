@@ -23,8 +23,21 @@ XR-contents-making 개발 (광교메타버스 교육)
 **ComfyUI**다운로드 창 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing)
 
 ### 다운 방법 -Ⅱ
-Python, Git, Nvidia 드라이버를 다운 합니다.<br>
+> Python, Git, Nvidia 드라이버 다운.
 
-**Python**다운로드 창 바로 가기 링크 ➡ [**Python** <code>**클릭**</code>](https://www.python.org/downloads/)<br>
-**Git**다운로드 창 바로 가기 링크 ➡ [**Git** <code>**클릭**</code>](https://git-scm.com/downloads)<br>
-**Nvidia 드라이버**다운로드 창 바로 가기 링크 ➡ [**Nvidia 드라이버** <code>**클릭**</code>](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
+**Python, Git, Nvidia 드라이버**를 다운 합니다.<br>
+
+**Python** 다운로드 창 바로 가기 링크 ➡ [**Python** <code>**클릭**</code>](https://www.python.org/downloads/)<br>
+**Git** 다운로드 창 바로 가기 링크 ➡ [**Git** <code>**클릭**</code>](https://git-scm.com/downloads)<br>
+**Nvidia 드라이버** 다운로드 창 바로 가기 링크 ➡ [**Nvidia 드라이버** <code>**클릭**</code>](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
+
+### 다운 방법 -Ⅲ
+>ComfyUI-Manager - 다운
+
+**ComfyUI-Manager**를 다운 합니다.<br>
+**ComfyUI-Manager** 다운로드 창 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://github.com/ltdrdata/ComfyUI-Manager)<br>
+**ComfyUI Manager 설치 및 사용법** 설치 및 사용법 창 바로 가기 링크 ➡ [**설치 및 사용법** <code>**클릭**</code>](https://aipoque.com/comfyui-manager-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95/#google_vignette)<br>
+
+
+
+
