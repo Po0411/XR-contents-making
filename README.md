@@ -52,18 +52,18 @@
 #
 > Stable diffusion comfyui 실행 해보기
 
-**한국강의**<br>
+#### 한국강의
 **Stable diffusion comfyui**기초 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.internetmap.kr/entry/Stable-Diffusion-via-ComfyUI)<br>
 **Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=NqmWqd-op1c)<br>
 
-**외국강의**<br>
+#### 외국강의
 **Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=gNwg8HLMUuk)<br>
 
 ### 사용 방법 -Ⅱ
 #
 > 모델 다운과 적용 해보기
 
-**한국강의**<br>
+#### 한국강의
 **Stable diffusion comfyui**모델 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.internetmap.kr/entry/Stable-Diffusion-Everything-about-models)<br>
 
 **Civitai** 모델 다운로드 창 바로 가기 링크➡ [**Civitai** <code>**클릭**</code>](https://civitai.com/)<br>
