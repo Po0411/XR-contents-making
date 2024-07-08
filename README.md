@@ -39,6 +39,14 @@ XR-contents-making 개발 (광교메타버스 교육)
 **ComfyUI-Manager** 다운로드 창 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://github.com/ltdrdata/ComfyUI-Manager)<br>
 **ComfyUI Manager 설치 및 사용법** 설치 및 사용법 창 바로 가기 링크 ➡ [**설치 및 사용법** <code>**클릭**</code>](https://aipoque.com/comfyui-manager-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95/#google_vignette)<br>
 
+## ⭐챕터.3⭐
+> Stable diffusion comfyui 사용법
 
+### 다운 방법 -Ⅰ
+> Stable diffusion comfyui 실행 해보기
 
+### 다운 방법 -Ⅱ
+> 모델 다운과 적용 해보기
 
+## ⭐챕터.4⭐
+> ComfyUI-Manager 사용하여 더 다양한 Custom Nodes 설치 하기
