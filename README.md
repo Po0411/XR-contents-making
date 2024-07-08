@@ -8,7 +8,9 @@ XR-contents-making 개발 (광교메타버스 교육)
 [@Po0411](https://github.com/Po0411)
 
 ## ⭐챕터.1⭐
-Chat GPT - 기획
+>Chat GPT - 기획
 
 아래 링크를 눌러 **Chat GPT**로 간단한 기획서를 제작해 봅시다.<br>
 **Chat GPT**로 바로 가기 링크 ➡ [**Chat GPT** <code>**클릭**</code>](https://chatgpt.com/)
+
+## ⭐챕터.2⭐
