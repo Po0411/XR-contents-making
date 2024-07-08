@@ -18,8 +18,7 @@
 
 **Stable diffusion comfyui** 다운 하겠습니다.<br>
 
-### 다운 방법 -Ⅰ
-#
+### 다운 방법 -Ⅰ #
 아래 링크를 눌러 **Windows** ComfyUI를 다운 합니다. ( 해당 링크는 아래 클릭 버튼을 클릭해주세요.)<br>
 **ComfyUI**다운로드 창 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing)<br>
 **ComfyUI**다운로드 영상 + 강의&기초 영상 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://www.youtube.com/watch?v=R6gggypjVqo)
