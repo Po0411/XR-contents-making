@@ -45,7 +45,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 
 **Stable diffusion comfyui** 사용 하겠습니다.<br>
 
-### 다운 방법 -Ⅰ
+### 사용 방법 -Ⅰ
 > Stable diffusion comfyui 실행 해보기
 
 **한국강의**
@@ -55,7 +55,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 **외국강의**
 **Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=gNwg8HLMUuk)<br>
 
-### 다운 방법 -Ⅱ
+### 사용 방법 -Ⅱ
 > 모델 다운과 적용 해보기
 
 **한국강의**
