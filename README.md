@@ -35,6 +35,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 >ComfyUI-Manager - 다운
 
 **ComfyUI-Manager**를 다운 합니다.<br>
+
 **ComfyUI-Manager** 다운로드 창 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://github.com/ltdrdata/ComfyUI-Manager)<br>
 **ComfyUI Manager 설치 및 사용법** 설치 및 사용법 창 바로 가기 링크 ➡ [**설치 및 사용법** <code>**클릭**</code>](https://aipoque.com/comfyui-manager-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95/#google_vignette)<br>
 
