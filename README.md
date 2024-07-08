@@ -23,4 +23,8 @@ XR-contents-making 개발 (광교메타버스 교육)
 **ComfyUI**다운로드 창 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing)
 
 ### 다운 방법 -Ⅱ
-파이썬, 깃, 엔비디아 드라이버를 다운 합니다.<br>
+Python, Git, Nvidia 드라이버를 다운 합니다.<br>
+
+**Python**다운로드 창 바로 가기 링크 ➡ [**Python** <code>**클릭**</code>](https://www.python.org/downloads/)<br>
+**Git**다운로드 창 바로 가기 링크 ➡ [**Git** <code>**클릭**</code>](https://git-scm.com/downloads)<br>
+**Nvidia 드라이버**다운로드 창 바로 가기 링크 ➡ [**Nvidia 드라이버** <code>**클릭**</code>](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
