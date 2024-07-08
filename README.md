@@ -25,6 +25,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 **ComfyUI**다운로드 영상 + 강의&기초 영상 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://www.youtube.com/watch?v=R6gggypjVqo)
 
 ### 다운 방법 -Ⅱ
+#
 > Python, Git, Nvidia 드라이버 다운.
 
 **Python, Git, Nvidia 드라이버**를 다운 합니다.<br>
@@ -34,6 +35,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 **Nvidia 드라이버** 다운로드 창 바로 가기 링크 ➡ [**Nvidia 드라이버** <code>**클릭**</code>](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
 
 ### 다운 방법 -Ⅲ
+#
 >ComfyUI-Manager - 다운
 
 **ComfyUI-Manager**를 다운 합니다.<br>
@@ -47,6 +49,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 **Stable diffusion comfyui** 사용 하겠습니다.<br>
 
 ### 사용 방법 -Ⅰ
+#
 > Stable diffusion comfyui 실행 해보기
 
 **한국강의**<br>
@@ -57,6 +60,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 **Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=gNwg8HLMUuk)<br>
 
 ### 사용 방법 -Ⅱ
+#
 > 모델 다운과 적용 해보기
 
 **한국강의**<br>
