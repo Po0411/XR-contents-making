@@ -21,6 +21,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 ### 다운 방법 -Ⅰ
 아래 링크를 눌러 **Windows** ComfyUI를 다운 합니다. ( 해당 링크는 아래 클릭 버튼을 클릭해주세요.)<br>
 **ComfyUI**다운로드 창 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing)
+**ComfyUI**다운로드 영상 + 강의&기초 영상 바로 가기 링크 ➡ [**ComfyUI** <code>**클릭**</code>](https://www.youtube.com/watch?v=R6gggypjVqo)
 
 ### 다운 방법 -Ⅱ
 > Python, Git, Nvidia 드라이버 다운.
@@ -42,11 +43,23 @@ XR-contents-making 개발 (광교메타버스 교육)
 ## ⭐챕터.3⭐
 > Stable diffusion comfyui 사용법
 
+**Stable diffusion comfyui** 사용 하겠습니다.<br>
+
 ### 다운 방법 -Ⅰ
 > Stable diffusion comfyui 실행 해보기
 
+**한국강의**
+**Stable diffusion comfyui**기초 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.internetmap.kr/entry/Stable-Diffusion-via-ComfyUI)<br>
+**Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**</code>](https://www.youtube.com/watch?v=NqmWqd-op1c)<br>**클릭
+
+**외국강의**
+**Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=gNwg8HLMUuk)<br>
+
 ### 다운 방법 -Ⅱ
 > 모델 다운과 적용 해보기
+
+**한국강의**
+**Stable diffusion comfyui**모델 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.internetmap.kr/entry/Stable-Diffusion-Everything-about-models)<br>
 
 **Civitai** 모델 다운로드 창 바로 가기 링크➡ [**Civitai** <code>**클릭**</code>](https://civitai.com/)<br>
 
