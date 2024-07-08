@@ -48,5 +48,10 @@ XR-contents-making 개발 (광교메타버스 교육)
 ### 다운 방법 -Ⅱ
 > 모델 다운과 적용 해보기
 
+**Civitai** 모델 다운로드 창 바로 가기 링크➡ [**Civitai** <code>**클릭**</code>](https://civitai.com/)<br>
+
+**1.Civitai** 추천 모델 다운로드 창 바로 가기 링크➡ [**1.Civitai** <code>**클릭**</code>](https://civitai.com/models/469902/wai-realcn)<br>
+**2.Civitai** 추천 모델 다운로드 창 바로 가기 링크➡ [**2.Civitai** <code>**클릭**</code>](https://civitai.com/models/317902/t-ponynai3)<br>
+
 ## ⭐챕터.4⭐
 > ComfyUI-Manager 사용하여 더 다양한 Custom Nodes 설치 하기
