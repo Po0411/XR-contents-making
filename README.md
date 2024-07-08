@@ -50,7 +50,7 @@ XR-contents-making 개발 (광교메타버스 교육)
 
 **한국강의**
 **Stable diffusion comfyui**기초 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.internetmap.kr/entry/Stable-Diffusion-via-ComfyUI)<br>
-**Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**</code>](https://www.youtube.com/watch?v=NqmWqd-op1c)<br>**클릭
+**Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=NqmWqd-op1c)<br>
 
 **외국강의**
 **Stable diffusion comfyui**기초 사용법 영상 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://www.youtube.com/watch?v=gNwg8HLMUuk)<br>
