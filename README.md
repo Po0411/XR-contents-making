@@ -10,5 +10,5 @@ XR-contents-making 개발 (광교메타버스 교육)
 ## ⭐챕터.1⭐
 Chat GPT - 기획
 
-아래 링크를 눌러 **Chat GPT**로 기획을 하는 단계.
-[Chat GPT]([https://chatgpt.com/)
+아래 링크를 눌러 **Chat GPT**로 간단한 기획서를 제작해 봅시다.
+**Chat GPT**로 바로 가기 링크 ➡ [**Chat GPT** <code>**클릭**</code>](https://chatgpt.com/)
