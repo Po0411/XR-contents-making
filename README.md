@@ -73,3 +73,9 @@
 
 ## ⭐챕터.4⭐
 > ComfyUI-Manager 사용하여 더 다양한 Custom Nodes 설치 하기
+
+다양한 모드들을 다운해서 사용 해보겠습니다.
+
+### ComfyUI_Dave_CustomNode 노드
+#
+**ComfyUI_Dave_CustomNode**다운로드 창 바로 가기 링크 ➡ [**ComfyUI-Manager** <code>**클릭**</code>](https://github.com/Davemane42/ComfyUI_Dave_CustomNode)<br>
