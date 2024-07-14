@@ -81,7 +81,7 @@
 **ComfyUI_Dave_CustomNode** 다운로드 창 바로 가기 링크 ➡ [**ComfyUI_Dave_CustomNode** <code>**클릭**</code>](https://github.com/Davemane42/ComfyUI_Dave_CustomNode)<br>
 **ComfyUI_Dave_CustomNode** 기초 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI_Dave_CustomNode** <code>**클릭**</code>](https://www.internetmap.kr/entry/ComfyUI-Visual-Area-Conditioning)<br>
 
-###ComfyUI_UltimateSDUpscale 노드
+### ComfyUI_UltimateSDUpscale 노드
 #
 **ComfyUI_UltimateSDUpscale** 다운로드 창 바로 가기 링크 ➡ [**ComfyUI_UltimateSDUpscale** <code>**클릭**</code>](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)<br>
 **ComfyUI_UltimateSDUpscale** 기초 사용법 블로그 바로 가기 링크 ➡ [**ComfyUI_UltimateSDUpscale** <code>**클릭**</code>](https://wikidocs.net/234144)<br>
